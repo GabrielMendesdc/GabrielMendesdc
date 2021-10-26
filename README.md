@@ -30,7 +30,7 @@
   <img align="left" alt="Steam" width="100px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 
-![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)
+![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)  
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GabrielMendesdc)
