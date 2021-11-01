@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 
-![snake](https://github.com/GabrielMendesdc/GabrielMendesdc/blob/650c0f07cf8c11e59b76325f970cfe7a046a3ad4/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/GabrielMendesdc/GabrielMendesdc/bd5f01bea0584f4c81418c68ea271657304b72a5/github-contribution-grid-snake.svg)
 
 <a target="_blank" href="https://steamcommunity.com/id/gbzinak/">
   <img align="left" alt="CSGO" width="200px" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
