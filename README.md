@@ -1,6 +1,5 @@
-# phyton-automatization
-## Hello Dev! 👋👋👋
-
+# Hello Dev! 👋👋👋
+## HOW ARE YOU?
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GabrielMendesdc&show_icons=true)
 
