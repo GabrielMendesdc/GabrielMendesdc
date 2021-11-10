@@ -4,8 +4,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GabrielMendesdc&show_icons=true)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendesdc&theme=blue)
-
 ## MY LANGUAGES:clipboard::
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
