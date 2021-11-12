@@ -2,6 +2,8 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GabrielMendesdc&show_icons=true)
 
+![](https://img.shields.io/badge/Gabriel_Mendes_De_Campos_O_TAL_DO_BRABO-ff00e1?style=for-the-badge&logo=Counter-Strike&logoColor=black)
+
 
 ## MY LANGUAGES:clipboard::
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
