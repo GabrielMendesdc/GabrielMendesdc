@@ -2,8 +2,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GabrielMendesdc&show_icons=true)
 
-![](https://img.shields.io/badge/Gabriel_Mendes_De_Campos-ff00e1?style=for-the-badge&logo=Counter-Strike&logoColor=black)
-
 
 ## MY LANGUAGES:clipboard::
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -24,9 +22,9 @@
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## MY GAMES:joystick:	:video_game::
-
+![](https://img.shields.io/badge/Gbrdoidao-ff00e1?style=for-the-badge&logo=Counter-Strike&logoColor=black)
 <a target="_blank" href="https://steamcommunity.com/id/gbzinak/">
-  <img align="left" alt="CSGO" width="200px" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
+  <img align="left" alt="CSGO" width="150px" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
 </a>
 
 <a target="_blank" href="https://steamcommunity.com/id/gbzinak/">
