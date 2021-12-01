@@ -1,4 +1,4 @@
-# I BORN POOR BUT NOT A JERK
+# Coding...
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GabrielMendesdc&show_icons=true&theme=dark)
 
