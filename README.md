@@ -1,4 +1,4 @@
-# Welcome to my World
+# Welcome to my World 🌐
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GabrielMendesdc&show_icons=true&theme=dark)
 
