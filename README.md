@@ -1,8 +1,3 @@
-# “I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer
-
-# “Nature created neither servants nor masters. I want neither to rule or be ruled.”
-
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GabrielMendesdc&show_icons=true&theme=dark)
 
 ## MY LANGUAGES:clipboard::
@@ -23,18 +18,6 @@
 
 ## OTHERs:abacus::
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-## MY GAMES:joystick:	:video_game::
-![](https://img.shields.io/badge/Gbrdoidao-ff00e1?style=for-the-badge&logo=Counter-Strike&logoColor=black)
-<a target="_blank" href="https://steamcommunity.com/id/gbzinak/">
-  <img align="left" alt="CSGO" width="150px" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
-</a>
-
-<a target="_blank" href="https://steamcommunity.com/id/gbzinak/">
-  <img align="left" alt="Steam" width="100px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-</a>
-
-![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)  
 
 ![snake](https://github.com/GabrielMendesdc/GabrielMendesdc/blob/output/github-contribution-grid-snake.svg)
 
