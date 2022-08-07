@@ -4,17 +4,14 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=GabrielMendesdc&show_icons=true&theme=dark)
 
-## Languages :clipboard::
+## Languages :clipboard:
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-## IDEs :desktop_computer::
+## IDEs :desktop_computer:
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## Expert :robot: :
+## Expert :robot: 
 ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
 ## Agile Methodology :clock8:
 ![](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
@@ -27,9 +24,6 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 ![](https://github.com/GabrielMendesdc/GabrielMendesdc/blob/output/github-contribution-grid-snake.svg)
-
 ![](https://komarev.com/ghpvc/?username=GabrielMendesdc)
-
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
